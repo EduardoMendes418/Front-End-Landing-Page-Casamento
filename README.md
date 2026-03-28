@@ -16,6 +16,8 @@ O **Luxe Studio** é uma landing page de alta performance desenvolvida para fot�
 
 ## 🛠 Tecnologias Utilizadas
 
+![Gemini-CLI](https://github.com/user-attachments/assets/3bb02d3c-b923-4e23-a8d7-40966318c111)
+
 ### Core
 
 - **Next.js 15+** (App Router & Server Components)
