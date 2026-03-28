@@ -2,7 +2,8 @@
 
 O **Luxe Studio** é uma landing page de alta performance desenvolvida para fotógrafos de luxo. O foco do projeto é proporcionar uma experiência visual imersiva, utilizando tipografia clássica, espaços negativos e animações suaves para transmitir exclusividade e profissionalismo.
 
-<img width="1912" height="820" alt="logo" src="https://github.com/user-attachments/assets/130630c4-38ea-4570-b357-14248a2e60a2" />
+<img width="1903" height="814" alt="teste" src="https://github.com/user-attachments/assets/7c5f1b6b-fae6-4da3-9ad3-c0e33a0df7f9" />
+
 
 ## ✨ Características Principais
 
