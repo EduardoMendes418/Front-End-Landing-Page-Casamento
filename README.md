@@ -1,36 +1,40 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+## 🎨 Sobre o Projeto
 
-## Getting Started
+O **Luxe Studio** é uma landing page de alta performance desenvolvida para fotógrafos de luxo. O foco do projeto é proporcionar uma experiência visual imersiva, utilizando tipografia clássica, espaços negativos e animações suaves para transmitir exclusividade e profissionalismo.
 
-First, run the development server:
+<img width="1912" height="820" alt="logo" src="https://github.com/user-attachments/assets/130630c4-38ea-4570-b357-14248a2e60a2" />
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## ✨ Características Principais
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **Design Minimalista:** Estética voltada para o mercado de luxo e casamentos.
+- **Performance Extrema:** Construído com Next.js para carregamento instantâneo.
+- **Animações Fluidas:** Transições de scroll e revelação de elementos com Framer Motion.
+- **Totalmente Responsivo:** Experiência otimizada para Desktop, Tablet e Mobile.
+- **Tipografia Refinada:** Uso estratégico de fontes serifadas e sans-serif para hierarquia visual.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🛠 Tecnologias Utilizadas
 
-## Learn More
+### Core
 
-To learn more about Next.js, take a look at the following resources:
+- **Next.js 15+** (App Router & Server Components)
+- **React 19** (Última versão do ecossistema React)
+- **TypeScript** (Segurança e escalabilidade)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Estilização & UI
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- **Tailwind CSS v4** (Estilização ultra-rápida via utilitários)
+- **Framer Motion** (Orquestração de animações complexas)
+- **Lucide React** (Pacote de ícones minimalistas)
+- **Radix UI** (Componentes acessíveis e não estilizados)
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🎯 Funcionalidades da Landing Page
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- [x] **Hero Section:** Impacto visual imediato com chamadas elegantes.
+- [x] **Gallery Grid:** Exibição de portfólio com layout assimétrico.
+- [x] **About Section:** Espaço dedicado à história e filosofia do estúdio.
+- [x] **Services:** Detalhamento dos pacotes e estilo de fotografia.
+- [x] **CTA (Book a Date):** Botão de conversão destacado no header e footer.
