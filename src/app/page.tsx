@@ -1,9 +1,9 @@
-import { Hero } from "@/features/home/Hero";
-import { AboutSection } from "@/features/home/AboutSection";
-import { PortfolioSection } from "@/features/home/PortfolioSection";
-import { ServicesSection } from "@/features/home/ServicesSection";
-import { TestimonialsSection } from "@/features/home/TestimonialsSection";
-import { ContactSection } from "@/features/home/ContactSection";
+import { Hero } from "@/components/home/Hero";
+import { AboutSection } from "@/components/home/AboutSection";
+import { PortfolioSection } from "@/components/home/PortfolioSection";
+import { ServicesSection } from "@/components/home/ServicesSection";
+import { TestimonialsSection } from "@/components/home/TestimonialsSection";
+import { ContactSection } from "@/components/home/ContactSection";
 
 export default function Home() {
   return (
