@@ -1,4 +1,4 @@
-import ServicesPageContent from "@/features/services/ServicesPage";
+import ServicesPageContent from "@/components/services/ServicesPage";
 
 export const metadata = {
   title: "Services | Wedding Photography",
